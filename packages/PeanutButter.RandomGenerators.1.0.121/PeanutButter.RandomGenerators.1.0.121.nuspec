@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PeanutButter.RandomGenerators</id>
+    <version>1.0.121</version>
+    <title>PeanutButter.RandomGenerators</title>
+    <authors>Davyd McColl</authors>
+    <owners>Davyd McColl</owners>
+    <licenseUrl>https://github.com/fluffynuts/PeanutButter/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/fluffynuts/PeanutButter</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is the random value generators slice of the PeanutButter mini-suite</description>
+    <summary>RandomGenerators helps you with testing by providing random values not only for simple types
+      such as strings and numerics, but also with more complex types using GenericBuilder</summary>
+    <releaseNotes />
+    <copyright>Copyright  2014</copyright>
+    <language>en-US</language>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="PeanutButter.Utils" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

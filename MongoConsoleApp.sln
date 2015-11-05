@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConsoleApp.Data", "MongoConsoleApp.Data\MongoConsoleApp.Data.csproj", "{B5101E84-5089-49C2-B273-FB9E314A80C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConsole", "MongoConsole\MongoConsole.csproj", "{F02A6EF0-CE6A-4934-81B1-8E2D3B41A94F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5101E84-5089-49C2-B273-FB9E314A80C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5101E84-5089-49C2-B273-FB9E314A80C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5101E84-5089-49C2-B273-FB9E314A80C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5101E84-5089-49C2-B273-FB9E314A80C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02A6EF0-CE6A-4934-81B1-8E2D3B41A94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A6EF0-CE6A-4934-81B1-8E2D3B41A94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A6EF0-CE6A-4934-81B1-8E2D3B41A94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A6EF0-CE6A-4934-81B1-8E2D3B41A94F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

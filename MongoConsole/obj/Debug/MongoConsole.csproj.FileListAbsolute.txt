@@ -1,0 +1,15 @@
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoConsole.exe.config
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoConsole.exe
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoConsole.pdb
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoConsoleApp.Data.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoDB.Bson.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoDB.Driver.Core.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoDB.Driver.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\PeanutButter.RandomGenerators.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\PeanutButter.Utils.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoConsoleApp.Data.pdb
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoDB.Bson.xml
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\bin\Debug\MongoDB.Driver.xml
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\obj\Debug\MongoConsole.csprojResolveAssemblyReference.cache
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\obj\Debug\MongoConsole.exe
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsole\obj\Debug\MongoConsole.pdb

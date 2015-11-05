@@ -1,0 +1,10 @@
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoConsoleApp.Data.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoConsoleApp.Data.pdb
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoDB.Bson.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoDB.Driver.Core.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoDB.Driver.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoDB.Bson.xml
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\bin\Debug\MongoDB.Driver.xml
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\obj\Debug\MongoConsoleApp.Data.csprojResolveAssemblyReference.cache
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\obj\Debug\MongoConsoleApp.Data.dll
+G:\systems_git\systems\ConsoleApps\MongoConsoleApp\MongoConsoleApp.Data\obj\Debug\MongoConsoleApp.Data.pdb
